@@ -1,7 +1,7 @@
 export const profile = {
-	fullName: 'Your Name',
-	title: '',
-	institute: '',
+	fullName: 'Fabian Fasser',
+	title: 'Solutions Engineer',
+	institute: 'Cisco Systems (Switzerland) GmbH',
 	author_name: '', // Author name to be highlighted in the papers section
 	research_areas: [
 		// { title: 'Physics', description: 'Brief description of the research interest', field: 'physics' },
@@ -10,9 +10,9 @@ export const profile = {
 
 // Set equal to an empty string to hide the icon that you don't want to display
 export const social = {
-	email: '',
-	linkedin: '',
-	x: 'https://www.x.com/',
+	email: 'ffasser@cisco.com',
+	linkedin: 'www.linkedin.com/in/fabian-fasser',
+	x: '',
 	bluesky: '',
 	github: '',
 	gitlab: '',
